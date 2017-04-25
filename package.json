@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "gulp-minifier": "^0.2.2"
+  }
+}
