@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "gulp-minifier": "^0.2.2"
+    "bisheng": "^0.27.6"
   }
 }
